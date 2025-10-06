@@ -9,6 +9,10 @@ Cliente PHP para consumo de API REST com autenticação JWT, desenvolvido para t
 - ✅ Tratamento de erros de requisição
 - ✅ Uso de variáveis de ambiente para credenciais
 
+## 🔗 Projeto Relacionado
+
+Este cliente foi desenvolvido para consumir a [API REST CRUD PHP](https://github.com/EdsonAkaves/php-vanilla-crud-api)
+
 ## 🚀 Tecnologias Utilizadas
 
 - PHP 8.2+
