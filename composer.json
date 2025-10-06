@@ -1,0 +1,12 @@
+{
+    "name": "edson/cliente-api",
+    "authors": [
+        {
+            "name": "EdsonAkaves",
+            "email": "edson.akaves@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
